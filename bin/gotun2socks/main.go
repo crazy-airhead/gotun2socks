@@ -8,8 +8,8 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/yinghuocho/gotun2socks"
-	"github.com/yinghuocho/gotun2socks/tun"
+	"gotun2socks"
+	"gotun2socks/tun"
 )
 
 func main() {
